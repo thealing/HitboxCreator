@@ -14,7 +14,7 @@
 #define WINDOW_WIDTH 1280
 #define WINDOW_HEIGHT 720
 #define CENTER_RADIUS 7
-#define CLICK_RADIUS 5
+#define CLICK_RADIUS 10
 #define LINE_WIDTH 4
 
 const HPEN redPen=CreatePen(PS_SOLID,LINE_WIDTH,RGB(255,0,0));
